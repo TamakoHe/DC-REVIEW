@@ -56,3 +56,4 @@ $ N=Z-P $
 = 稳定区域和不稳定点(Stability Regions or Point of Instability)
 == 判断系统稳定性的方法
 === Routh-Hurwitz criterion 
+#image("2025-06-15-22-04-39.png")

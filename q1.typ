@@ -79,3 +79,6 @@ $ s^3+(5+K)s^2+(4+5K)s+6K=0 $
 #image("image-2.png")
 第一列全部大于0，综合条件是$K>0$
 = Q4 
+$ C(s)/R(s)=(100K)/(s(s+1)(s+100)+100K) $
+time constant form(K=1): 
+$  $

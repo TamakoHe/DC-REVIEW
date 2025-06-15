@@ -42,7 +42,9 @@ $ |G(s)|=(Pi_(i=1)^m |s-z_i|)/(Pi_(i=1)^n |s-p_i|) $
 == 如何绘制频率响应
 === Nyquist plot(极点轨迹)
 将$s=j omega$带入传递函数，$omega$从0到$+infinity$, 计算每个频率下的复数值，
-然后绘制到二维平面上
+然后绘制到二维平面
+#image("2025-06-15-22-57-17.png")
+
 === Bode diagram 
 这种图包含两个部分(对于传递函数G(s)):
 + Magnitude/gain
@@ -51,6 +53,7 @@ $ 20 log_10^(|G(j omega)|) $
 + Phase
 $ arg[G(j omega)] $
 单位:rad(弧度)
+#image("2025-06-15-22-40-24.png")
 ==== 传递函数的time constant form 
 $ G(s)=(K(1+s/omega_"z1")(1+s/omega_"z2")...)/(s^r (1+s/omega_"p1")(1+s/omega_"p2")...) $
 - 在这个形式的基础上进行计算
